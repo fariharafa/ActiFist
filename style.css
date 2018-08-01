@@ -1,0 +1,67 @@
+body, html{
+  background: url('Global-Issues-Summit-2017.mp4') no-repeat;
+  background-size: 1000px;
+  font-family: Arial;
+  color: black;
+  background-position: top;
+  text-align: center;
+}
+ul{
+  margin: 0px auto;
+  padding: 0px;
+  list-style: none;
+  text-align: center;
+
+}
+ul li{
+  float: left;
+  width: 200px;
+  height: 40px;
+  background-color: #9D969E;
+  opacity: .8;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
+  margin-right:2px;
+}
+ul li a{
+  text-decoration: none;
+  color: black;
+  display: block;
+  text-align: center;
+}
+ul li a:hover{
+  background: #59656F;
+}
+ul li ul li{
+  display: none;
+}
+ul li:hover ul li{
+  display: block;
+}
+
+  /* margin: 0;
+  padding: 0;
+}
+
+video{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  min-width: 100%;
+  min-height: 100%
+  width: auto;
+  height: auto;
+  z-index: 1;
+}
+
+.text {
+  z-index: 2;
+  position: absolute;
+  background: rgba(200,0,0,0.4)
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+} */
