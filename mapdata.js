@@ -1021,7 +1021,6 @@ var simplemaps_worldmap_mapdata={
     "0": {
       name: "North America",
       states: [
-        "MX",
         "CA",
         "US",
         "GL"
@@ -1031,12 +1030,20 @@ var simplemaps_worldmap_mapdata={
         name: "Central America",
         states: [
           "BZ",
+          "MX",
           "CR",
           "SV",
           "GT",
           "HN",
           "PA",
-          "NI"
+          "NI",
+          "HT",
+          "JM",
+          "BS",
+          "CU",
+          "DO",
+          "PR",
+          "TT"
       ]
     },
     "2": {
@@ -1049,18 +1056,12 @@ var simplemaps_worldmap_mapdata={
         "BO",
         "PE",
         "CL",
-        "CU",
-        "DO",
         "GY",
         "GF",
         "PY",
-        "PR",
         "SR",
         "UY",
-        "JM",
-        "HT",
-        "CO",
-        "BS"
+        "CO"
       ]
     },
     "3": {
@@ -1110,9 +1111,7 @@ var simplemaps_worldmap_mapdata={
     "4": {
       name: "Africa",
       states: [
-        "AZ",
         "LB",
-        "TJ",
         "NE",
         "AO",
         "TN",
@@ -1177,6 +1176,7 @@ var simplemaps_worldmap_mapdata={
       states: [
         "TW",
         "MY",
+        "TJ",
         "IN",
         "TH",
         "BN",
@@ -1224,6 +1224,7 @@ var simplemaps_worldmap_mapdata={
       "PS",
       "JO",
       "YE",
+      "AZ",
       "OM"
       ]
     }
