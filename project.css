@@ -1,6 +1,6 @@
 body, html{
 
-  background: url('Global-Issues-Summit-2017.mp4') no-repeat;
+  background: url('GWC FINAL PROJECT.mp4') no-repeat;
   background-size: 1000px;
   font-family: "calibri";
   color: black;
@@ -9,7 +9,6 @@ body, html{
   background-color:
 
 }
-
 
 {
     font-family: "calibri";
@@ -59,3 +58,17 @@ body, html{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+h1 {color: tomato; font-family: "calibri"; text-align:center;}
+h2 {color: tomato; font-family: "calibri"; text-align:center;}
+h3 {color: tomato; font-family: "calibri"; text-align:center;}
+body {color: tomato;font-family: "calibri"; text-align:left; padding-top: 20px;}
+footer {padding-top: 20px; padding-bottom: 20px; word-spacing: 30px}
+a:link
+ {color: #1A659E; background-color: transparent; text-decoration: none;}
+a:visited
+ {color: #1A659E; background-color: transparent; text-decoration: underline;}
+a:hover
+ {color: #1A659E; background-color: transparent; text-decoration: underline;}
+a:active
+ {color: #1A659E; background-color: transparent; text-decoration: underline;}
