@@ -1,7 +1,7 @@
 var simplemaps_worldmap_mapdata={
   main_settings: {
    //General settings
-    width: "700", //'700' or 'responsive'
+    width: "1210", //'700' or 'responsive'
     background_color: "#74808C",
     background_transparent: "yes",
     popups: "detect",
@@ -72,309 +72,309 @@ var simplemaps_worldmap_mapdata={
   },
   state_specific: {
     AE: {
-      name: "United Arab Emirates",
-      inactive: "yes",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
+      inactive: "no",
       hide: "no"
     },
     AF: {
       name: "Afghanistan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AL: {
-      name: "Albania",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AM: {
-      name: "Armenia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AO: {
-      name: "Angola",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AR: {
-      name: "Argentina",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AT: {
-      name: "Austria",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AU: {
-      name: "Australia",
+      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/austrailia.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     AZ: {
-      name: "Azerbaidjan",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BA: {
-      name: "Bosnia-Herzegovina",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BD: {
       name: "Bangladesh",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BE: {
-      name: "Belgium",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BF: {
-      name: "Burkina Faso",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BG: {
-      name: "Bulgaria",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BH: {
-      name: "Bahrain",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BI: {
-      name: "Burundi",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BJ: {
-      name: "Benin",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BN: {
       name: "Brunei Darussalam",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BO: {
-      name: "Bolivia",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BR: {
-      name: "Brazil",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BS: {
-      name: "Bahamas",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BT: {
       name: "Bhutan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BW: {
-      name: "Botswana",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BY: {
-      name: "Belarus",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     BZ: {
-      name: "Belize",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CA: {
-      name: "Canada",
+      name: 'Canada',
       hide: "no",
       inactive: "yes"
     },
     CD: {
-      name: "Congo",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CF: {
-      name: "Central African Republic",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CG: {
-      name: "Congo",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CH: {
-      name: "Switzerland",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CI: {
-      name: "Ivory Coast",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CL: {
-      name: "Chile",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CM: {
-      name: "Cameroon",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CN: {
       name: "China",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CO: {
-      name: "Colombia",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CR: {
-      name: "Costa Rica",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CU: {
-      name: "Cuba",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CV: {
       name: "Cape Verde",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CY: {
-      name: "Cyprus",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CZ: {
-      name: "Czech Republic",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     DE: {
-      name: "Germany",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     DJ: {
-      name: "Djibouti",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     DK: {
-      name: "Denmark",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     DO: {
-      name: "Dominican Republic",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     DZ: {
-      name: "Algeria",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     EC: {
-      name: "Ecuador",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     EE: {
-      name: "Estonia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     EG: {
-      name: "Egypt",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     EH: {
-      name: "Western Sahara",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ER: {
-      name: "Eritrea",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ES: {
-      name: "Spain",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ET: {
-      name: "Ethiopia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     FI: {
-      name: "Finland",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     FJ: {
       name: "Fiji",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     FK: {
       name: "Falkland Islands",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     FR: {
-      name: "France",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GA: {
-      name: "Gabon",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GB: {
-      name: "Great Britain",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GE: {
-      name: "Georgia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GF: {
-      name: "French Guyana",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GH: {
-      name: "Ghana",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GL: {
       name: "Greenland",
@@ -382,641 +382,581 @@ var simplemaps_worldmap_mapdata={
       inactive: "yes"
     },
     GM: {
-      name: "Gambia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GN: {
-      name: "Guinea",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GQ: {
-      name: "Equatorial Guinea",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GR: {
-      name: "Greece",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GS: {
       name: "S. Georgia & S. Sandwich Isls.",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GT: {
-      name: "Guatemala",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GW: {
-      name: "Guinea Bissau",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     GY: {
-      name: "Guyana",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     HN: {
-      name: "Honduras",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     HR: {
-      name: "Croatia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     HT: {
-      name: "Haiti",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     HU: {
-      name: "Hungary",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IC: {
       name: "Canary Islands",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ID: {
       name: "Indonesia",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IE: {
-      name: "Ireland",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IL: {
-      name: "Israel",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IN: {
       name: "India",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IQ: {
-      name: "Iraq",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IR: {
-      name: "Iran",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IS: {
-      name: "Iceland",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     IT: {
-      name: "Italy",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     JM: {
-      name: "Jamaica",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     JO: {
-      name: "Jordan",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     JP: {
       name: "Japan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KE: {
-      name: "Kenya",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KG: {
       name: "Kyrgyzstan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KH: {
       name: "Cambodia",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KP: {
       name: "North Korea",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KR: {
       name: "South Korea",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KW: {
-      name: "Kuwait",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     KZ: {
       name: "Kazakhstan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LA: {
       name: "Laos",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
+    },
+    LB: {
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
+      hide: "no",
+      inactive: "no"
     },
     LK: {
       name: "Sri Lanka",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LR: {
-      name: "Liberia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LS: {
-      name: "Lesotho",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LT: {
-      name: "Lithuania",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LU: {
-      name: "Luxembourg",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LV: {
-      name: "Latvia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     LY: {
-      name: "Libya",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MA: {
-      name: "Morocco",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MD: {
-      name: "Moldavia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ME: {
-      name: "Montenegro",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MG: {
-      name: "Madagascar",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MK: {
-      name: "Macedonia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ML: {
-      name: "Mali",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MM: {
       name: "Myanmar",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MN: {
       name: "Mongolia",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MR: {
-      name: "Mauritania",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MW: {
-      name: "Malawi",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MX: {
-      name: "Mexico",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MY: {
       name: "Malaysia",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     MZ: {
-      name: "Mozambique",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NA: {
-      name: "Namibia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NC: {
       name: "New Caledonia (French)",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NE: {
-      name: "Niger",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NG: {
-      name: "Nigeria",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NI: {
-      name: "Nicaragua",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NL: {
-      name: "Netherlands",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NO: {
-      name: "Norway",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NP: {
       name: "Nepal",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     NZ: {
-      name: "New Zealand",
+      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/austrailia.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     OM: {
-      name: "Oman",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PA: {
-      name: "Panama",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PE: {
-      name: "Peru",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PG: {
-      name: "Papua New Guinea",
+      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/austrailia.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PH: {
       name: "Philippines",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PK: {
       name: "Pakistan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PL: {
-      name: "Poland",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PR: {
-      name: "Puerto Rico",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PS: {
-      name: "Palestine",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PT: {
-      name: "Portugal",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     PY: {
-      name: "Paraguay",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     QA: {
-      name: "Qatar",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     RO: {
-      name: "Romania",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     RS: {
-      name: "Serbia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     RU: {
       name: "Russia",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     RW: {
-      name: "Rwanda",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SA: {
-      name: "Saudi Arabia",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SB: {
       name: "Solomon Islands",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SD: {
-      name: "Sudan",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SE: {
-      name: "Sweden",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SI: {
-      name: "Slovenia",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SK: {
-      name: "Slovak Republic",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SL: {
-      name: "Sierra Leone",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SN: {
-      name: "Senegal",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SO: {
-      name: "Somalia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SR: {
-      name: "Suriname",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SS: {
-      name: "South Sudan",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SV: {
-      name: "El Salvador",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SY: {
-      name: "Syria",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     SZ: {
-      name: "Swaziland",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TD: {
-      name: "Chad",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TG: {
-      name: "Togo",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TH: {
       name: "Thailand",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TJ: {
       name: "Tadjikistan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TL: {
       name: "East Timor",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TM: {
       name: "Turkmenistan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TN: {
-      name: "Tunisia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TR: {
-      name: "Turkey",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TT: {
-      name: "Trinidad and Tobago",
+      name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TW: {
       name: "Taiwan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     TZ: {
-      name: "Tanzania",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     UA: {
-      name: "Ukraine",
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     UG: {
-      name: "Uganda",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     US: {
-      name: "United States",
-      inactive: "yes",
+      name: '<img width="480" height="342" style="float:left; margin-right: 10px;" src="map_images/USA probs.jpg"/><br />',
+      inactive: "no",
       hide: "no"
     },
     UY: {
-      name: "Uruguay",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     UZ: {
       name: "Uzbekistan",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     VE: {
-      name: "Venezuela",
+      name: '<img width="548" height="456" style="float:left; margin-right: 10px;" src="map_images/south_america.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     VN: {
       name: "Vietnam",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     VU: {
       name: "Vanuatu",
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     YE: {
-      name: "Yemen",
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ZA: {
-      name: "South Africa",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ZM: {
-      name: "Zambia",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     ZW: {
-      name: "Zimbabwe",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
-      inactive: "yes"
-    },
-    LB: {
-      name: "Lebanon",
-      hide: "no",
-      inactive: "yes"
+      inactive: "no"
     }
   },
-  // locations: {
-  //   "0": {
-  //     name: "Paris",
-  //     lat: "48.866666670",
-  //     lng: "2.333333333",
-  //     type: "triangle"
-  //   },
-  //   "1": {
-  //     name: "Tokyo",
-  //     lat: "35.666666670",
-  //     lng: "139.750000000",
-  //     type: "triangle"
-  //   },
-  //   "2": {
-  //     name: "Shanghai",
-  //     lat: "31.100000000",
-  //     lng: "121.366666700",
-  //     type: "square"
-  //   },
-  //   "3": {
-  //     name: "New York",
-  //     lat: "40.700000000",
-  //     lng: "-73.900000000",
-  //     type: "square"
-  //   },
-  //   "4": {
-  //     name: "Los Angeles",
-  //     lat: "34.000000000",
-  //     lng: "-118.250000000",
-  //     type: "circle"
-  //   },
-  //   "5": {
-  //     name: "Cape Town",
-  //     lat: "-35.916666670",
-  //     lng: "18.366666670",
-  //     type: "circle"
-  //   },
-  //   "6": {
-  //     name: "Santiago",
-  //     lat: "-33.450000000",
-  //     lng: "-70.666666670",
-  //     type: "circle"
-  //   },
-  //   "7": {
-  //     name: "Cairo",
-  //     lat: "30.050000000",
-  //     lng: "31.250000000",
-  //     type: "triangle"
-  //   },
-  //   "8": {
-  //     name: "Singapore",
-  //     lat: "1.300000000",
-  //     lng: "103.833333300",
-  //     color: "#1c4922",
-  //     description: "Company Headquarters",
-  //     type: "star",
-  //     size: "40",
-  //     opacity: "1"
-  //   }
-  // },
   regions: {
     "0": {
       name: "North America",
