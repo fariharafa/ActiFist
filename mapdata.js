@@ -197,7 +197,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     CA: {
-      name: '<img width="910" height="488" style="float:left; margin-right: 10px;" src="map_images/Canada.png"/><br />',
+      name: '<img width="683" height="384" style="float:left; margin-right: 10px;" src="map_images/canada!.png"/><br />',
       hide: "no",
       inactive: "no"
     },
