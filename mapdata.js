@@ -77,7 +77,7 @@ var simplemaps_worldmap_mapdata={
       hide: "no"
     },
     AF: {
-      name: "Afghanistan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -107,7 +107,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     AU: {
-      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/austrailia.png"/><br />',
+      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/australia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -122,7 +122,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     BD: {
-      name: "Bangladesh",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -157,7 +157,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     BN: {
-      name: "Brunei Darussalam",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -177,7 +177,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     BT: {
-      name: "Bhutan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -197,9 +197,9 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     CA: {
-      name: 'Canada',
+      name: '<img width="910" height="488" style="float:left; margin-right: 10px;" src="map_images/Canada.png"/><br />',
       hide: "no",
-      inactive: "yes"
+      inactive: "no"
     },
     CD: {
       name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
@@ -237,7 +237,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     CN: {
-      name: "China",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -257,7 +257,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     CV: {
-      name: "Cape Verde",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -337,14 +337,14 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     FJ: {
-      name: "Fiji",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     FK: {
       name: "Falkland Islands",
       hide: "no",
-      inactive: "no"
+      inactive: "yes"
     },
     FR: {
       name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
@@ -404,7 +404,7 @@ var simplemaps_worldmap_mapdata={
     GS: {
       name: "S. Georgia & S. Sandwich Isls.",
       hide: "no",
-      inactive: "no"
+      inactive: "yes"
     },
     GT: {
       name: '<img width="578" height="428" style="float:left; margin-right: 10px;" src="map_images/central_america.png"/><br />',
@@ -442,12 +442,12 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     IC: {
-      name: "Canary Islands",
+      name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     ID: {
-      name: "Indonesia",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -462,7 +462,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     IN: {
-      name: "India",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -497,7 +497,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     JP: {
-      name: "Japan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -507,22 +507,22 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     KG: {
-      name: "Kyrgyzstan",
+      name:'<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     KH: {
-      name: "Cambodia",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     KP: {
-      name: "North Korea",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     KR: {
-      name: "South Korea",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -532,12 +532,12 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     KZ: {
-      name: "Kazakhstan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     LA: {
-      name: "Laos",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -547,7 +547,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     LK: {
-      name: "Sri Lanka",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -612,12 +612,12 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     MM: {
-      name: "Myanmar",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     MN: {
-      name: "Mongolia",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -637,7 +637,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     MY: {
-      name: "Malaysia",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -654,7 +654,7 @@ var simplemaps_worldmap_mapdata={
     NC: {
       name: "New Caledonia (French)",
       hide: "no",
-      inactive: "no"
+      inactive: "yes"
     },
     NE: {
       name: '<img width="450" height="499" style="float:left; margin-right: 10px;" src="map_images/africa.png"/><br />',
@@ -682,12 +682,12 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     NP: {
-      name: "Nepal",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     NZ: {
-      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/austrailia.png"/><br />',
+      name: '<img width="589" height="445" style="float:left; margin-right: 10px;" src="map_images/australia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -712,12 +712,12 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     PH: {
-      name: "Philippines",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     PK: {
-      name: "Pakistan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -762,7 +762,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     RU: {
-      name: "Russia",
+      name:'<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -777,7 +777,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     SB: {
-      name: "Solomon Islands",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -852,22 +852,22 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     TH: {
-      name: "Thailand",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     TJ: {
-      name: "Tadjikistan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     TL: {
-      name: "East Timor",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     TM: {
-      name: "Turkmenistan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -887,7 +887,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     TW: {
-      name: "Taiwan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -917,7 +917,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     UZ: {
-      name: "Uzbekistan",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
@@ -927,14 +927,14 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     VN: {
-      name: "Vietnam",
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
       hide: "no",
       inactive: "no"
     },
     VU: {
       name: "Vanuatu",
       hide: "no",
-      inactive: "no"
+      inactive: "yes"
     },
     YE: {
       name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
