@@ -1,5 +1,5 @@
 .tweet {
-  float: left;
+  float: center;
   padding-right: 175px;
   width:35px;
 }
@@ -13,9 +13,9 @@
 .ms-options-wrap > button {
     position: relative;
     width: 100%;
-    text-align: left;
-    border: 1px solid #aaa;
-    background-color: #fff;
+    text-align: center;
+    border: 1px solid #74808C;
+    background-color: #028090;
     padding: 5px 20px 5px 5px;
     margin-top: 1px;
     font-size: 13px;
@@ -29,8 +29,8 @@
 }
 
 .ms-options-wrap > button[disabled] {
-    background-color: #e5e9ed;
-    color: #808080;
+    background-color: #028090;
+    color: #028090;
     opacity: 0.6;
 }
 
