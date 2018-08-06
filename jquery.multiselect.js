@@ -7,28 +7,80 @@
  * @Source: https://github.com/nobleclem/jQuery-MultiSelect
  *
  * Usage:
- *     $('select[multiple]').multiselect();
- *     $('select[multiple]').multiselect({ texts: { placeholder: 'Select options' } });
- *     $('select[multiple]').multiselect('reload');
- *     $('select[multiple]').multiselect( 'loadOptions', [{
- *         name   : 'Option Name 1',
- *         value  : 'option-value-1',
- *         checked: false,
- *         attributes : {
- *             custom1: 'value1',
- *             custom2: 'value2'
- *         }
- *     },{
- *         name   : 'Option Name 2',
- *         value  : 'option-value-2',
- *         checked: false,
- *         attributes : {
- *             custom1: 'value1',
- *             custom2: 'value2'
- *         }
- *     }]);
- *
- **/
+ */
+      // $('select[multiple]').multiselect();
+      // $('select[multiple]').multiselect({ texts: { placeholder: 'Select options' } });
+      // $('select[multiple]').multiselect('reload');
+      // $('select[multiple]').multiselect( 'loadOptions', [{
+      //     name   : 'Option Name 1',
+      //     value  : 'option-value-1',
+      //     checked: false,
+      //     attributes : {
+      //         custom1: 'value1',
+      //         custom2: 'value2'
+      //     }
+      // },{
+      //     name   : 'Option Name 2',
+      //     value  : 'option-value-2',
+      //     checked: false,
+      //     attributes : {
+      //         custom1: 'value1',
+      //         custom2: 'value2'
+      //     }
+      // }]);
+      //
+      function myfunct() {
+
+      }
+      function myFunction() {
+        var IDs = ["Times Up/Me Too", "Black Lives Matter", "March for our Lives", "American Indian Reservations", "LGBTQ+", "People with Disabilities", "Women's March", "March for Life", "Reform Immigration", "Tax March", "Climate Change", "Mental Health", "DACA/Dreamers", "Relief for Muslims"];
+        document.getElementById(IDs[0]).style.display = "none";
+        document.getElementById(IDs[1]).style.display = "none";
+        document.getElementById(IDs[2]).style.display = "none";
+        document.getElementById(IDs[3]).style.display = "none";
+        document.getElementById(IDs[4]).style.display = "none";
+        document.getElementById(IDs[5]).style.display = "none";
+        document.getElementById(IDs[6]).style.display = "none";
+        document.getElementById(IDs[7]).style.display = "none";
+        document.getElementById(IDs[8]).style.display = "none";
+        document.getElementById(IDs[9]).style.display = "none";
+        document.getElementById(IDs[10]).style.display ="none";
+        document.getElementById(IDs[11]).style.display ="none";
+        document.getElementById(IDs[12]).style.display ="none";
+        document.getElementById(IDs[13]).style.display ="none";
+
+        var string = $('select[multiple]').val();
+        var array = Array.from(string);
+
+
+        document.getElementById(array[0]).style.display ="block";
+        document.getElementById(array[1]).style.display ="block";
+        document.getElementById(array[2]).style.display = "block";
+        document.getElementById(array[3]).style.display = "block";
+        document.getElementById(array[4]).style.display = "block";
+        document.getElementById(array[5]).style.display = "block";
+        document.getElementById(array[6]).style.display = "block";
+        document.getElementById(array[7]).style.display = "block";
+        document.getElementById(array[8]).style.display = "block";
+        document.getElementById(array[9]).style.display = "block";
+        document.getElementById(array[10]).style.display = "block";
+        document.getElementById(array[11]).style.display = "block";
+        document.getElementById(array[12]).style.display = "block";
+        document.getElementById(array[13]).style.display = "block";
+
+      }
+      $(function () {
+          $('select[multiple].active.3col').multiselect({
+              columns: 3,
+              placeholder: 'Select Movements',
+              search: true,
+              searchOptions: {
+                  'default': 'Search Movements'
+              },
+              selectAll: true
+          });
+      });
+
 (function($){
     var defaults = {
         columns: 1,     // how many columns should be use to show options
@@ -915,4 +967,5 @@
             return ret;
         }
     };
+
 }(jQuery));
