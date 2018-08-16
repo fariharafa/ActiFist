@@ -1,2 +1,2 @@
-# GirlsWhoCode2018-ActiFist.github.io
+# GirlsWhoCode2018-ActiFist
 gwc 2018 (final project)
