@@ -72,17 +72,17 @@ var simplemaps_worldmap_mapdata={
   },
   state_specific: {
     AE: {
-      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.png"/><br />',
+      name: '<img width="731" height="408" style="float:left; margin-right: 10px;" src="map_images/Middle_east.PNG"/><br />',
       inactive: "no",
       hide: "no"
     },
     AF: {
-      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.png"/><br />',
+      name: '<img width="460" height="230" style="float:left; margin-right: 10px;" src="map_images/asia.PNG"/><br />',
       hide: "no",
       inactive: "no"
     },
     AL: {
-      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.png"/><br />',
+      name: '<img width="519" height="485" style="float:left; margin-right: 10px;" src="map_images/europe.PNG"/><br />',
       hide: "no",
       inactive: "no"
     },
